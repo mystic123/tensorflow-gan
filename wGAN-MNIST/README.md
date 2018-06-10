@@ -8,4 +8,4 @@ The gradient penalty does indeed stabilize training and allows to use deeper arc
 
 Results after 25000 steps with batch 4096:
 
-![Results](https://github.com/mystic123/DeepLearning/blob/master/GAN/wGAN-MNIST/generated_imgs/img.jpg)
+![Results](https://github.com/mystic123/tensorflow-gan/raw/master/wGAN-MNIST/generated_imgs/img.jpg)
